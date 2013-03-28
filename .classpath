@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="jar/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="jar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="jar/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="jar/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="jar/jakarta-oro-2.0.1.jar"/>
+	<classpathentry kind="lib" path="jar/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="jar/json-lib-ext-spring-1.0.2.jar"/>
+	<classpathentry kind="lib" path="jar/libsvm.jar"/>
+	<classpathentry kind="lib" path="jar/mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry kind="lib" path="jar/weka.jar"/>
+	<classpathentry kind="lib" path="jar/xom-1.2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
